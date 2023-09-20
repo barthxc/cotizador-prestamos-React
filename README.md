@@ -4,7 +4,7 @@
 
 ## 🌐 Visita el proyecto en :
 
-[Este mega enlace!](https://leafy-croissant-385175.netlify.app){:target="_blank"}
+[Este mega enlace!](https://leafy-croissant-385175.netlify.app)
 
 
 
